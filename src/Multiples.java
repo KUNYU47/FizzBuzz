@@ -12,11 +12,9 @@ public class Multiples {
             if (divisableBy3 || divisableBy5) {
 
                 count++;
-
             }
         }
 
         System.out.println(count);
-
     }
 }
