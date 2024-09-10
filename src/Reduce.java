@@ -20,6 +20,7 @@ public class Reduce {
             step++;
         }
 
-        System.out.println(step);
+        String result = Integer.toString(step);
+        System.out.println(result);
     }
 }

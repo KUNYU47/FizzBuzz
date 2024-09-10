@@ -15,6 +15,7 @@ public class Multiples {
             }
         }
 
-        System.out.println(count);
+        String result = Integer.toString(count);
+        System.out.println(result);
     }
 }
